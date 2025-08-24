@@ -1,2 +1,2 @@
 # notebooks
-Notebooks de Estructuras de Datso
+Notebooks de Estructuras de Datos
